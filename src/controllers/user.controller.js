@@ -6,4 +6,4 @@ const registerUser = asyncHandler(async (requestAnimationFrame, res) => {
     });
 });
 
-export { registerUser }; 
+export { registerUser };
