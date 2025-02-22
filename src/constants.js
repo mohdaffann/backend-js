@@ -1,2 +1,2 @@
- const DB_NAME = "WIDEOSHARE"
- export default DB_NAME
+const DB_NAME = "WIDEOSHARE"
+export default DB_NAME
